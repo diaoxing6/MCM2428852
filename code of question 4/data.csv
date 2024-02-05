@@ -1,0 +1,11 @@
+,male_lamprey,female_lamprey,parasite,producer,salmon,sturgeon,trout,temperature,sunlight,oxygen
+male_lamprey,0,1,-1,1,1,1,1,1,1,1
+female_lamprey,1,0,-1,1,1,1,1,1,1,1
+parasite,1,1,0,0,1,1,1,-1,0,-1
+producer,-1,-1,1,0,-1,-1,-1,1,1,1
+salmon,-1,-1,-1,1,0,0,0,1,1,1
+sturgeon,-1,-1,-1,1,0,0,0,1,1,1
+trout,-1,-1,-1,1,0,0,0,1,1,1
+temperature,1,1,0,0,1,1,1,0,1,0
+sunlight,0,0,0,0,0,0,0,0,0,0
+oxygen,-1,-1,0,1,-1,-1,-1,0,1,0

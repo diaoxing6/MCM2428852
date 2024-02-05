@@ -1,0 +1,10 @@
+,male_lamprey,female_lamprey,predator,prey,producer,oxygen,habitat,sunlight,tempture
+male_lamprey,0,1,-1,1,1,1,1,1,1
+female_lamprey,1,0,-1,1,1,1,1,1,1
+predator,1,1,0,0,0,1,0,1,0
+prey,-1,-1,0,0,1,1,1,1,1
+producer,-1,-1,0,-1,0,1,0,1,1
+oxygen,-1,-1,-1,-1,1,0,1,1,1
+habitat,-1,-1,0,1,1,0,0,0,1
+sunlight,0,0,0,0,0,0,1,0,1
+tempture,0,0,0,0,1,0,-1,1,0

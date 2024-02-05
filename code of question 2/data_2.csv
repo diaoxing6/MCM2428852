@@ -1,0 +1,9 @@
+,lamprey,predator,prey,producer,oxygen,habitat,sunlight,tempture
+lamprey,0,-1,1,1,1,1,1,-1
+predator,1,0,0,0,1,0,1,0
+prey,-1,0,0,1,1,1,1,-1
+producer,-1,0,-1,0,1,0,1,1
+oxygen,-1,-1,-1,1,0,1,1,1
+habitat,-1,0,1,1,0,0,0,1
+sunlight,0,0,0,0,0,1,0,1
+tempture,0,0,0,1,0,-1,1,0
